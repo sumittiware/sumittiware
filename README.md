@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Django-Rest-Framework**
 
-- 📝 I have written couple of articles on [https://auth.geeksforgeeks.org/user/sumitgtiware/articles](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
+- 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **tiwaresumit143@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10HfRbRTJIJkTs7juCGc_E4MHXLF6nbza/view?usp=sharing](https://drive.google.com/file/d/10HfRbRTJIJkTs7juCGc_E4MHXLF6nbza/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/10HfRbRTJIJkTs7juCGc_E4MHXLF6nbza/view?usp=sharing)
 
-- ⚡ Fun fact **All this is such a drag!!**
+- **All this is such a drag!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
