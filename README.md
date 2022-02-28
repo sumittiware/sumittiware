@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack app Developer | Programmer</h3>
 
 
-- 🔭 I’m currently working on **Backend Development & DSA**
+- 🔭 I’m currently working on my **DSA Skills**
 
-- 🌱 I’m currently learning **Django-Rest-Framework**
+- 🌱 I’m currently learning **Kotlin and Android OS**
 
 - 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
 
-- 💬 Ask me about **Flutter, Firebase, Nodejs, Django**
+- 💬 Ask me about **Flutter, Firebase, Nodejs, Django, API**
 
 - 📫 How to reach me **tiwaresumit143@gmail.com**
 
