@@ -2,7 +2,7 @@
 <h3 align="center">Flutter & Android Developer | Programmer</h3>
 
 
-- 🌱 I’m currently learning **web3 technologies & and integrating tem with Flutter apps**
+- 🌱 I’m currently learning **web3 technologies & and integrating it with Flutter apps**
 
 - 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
 
