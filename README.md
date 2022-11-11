@@ -6,7 +6,7 @@
 
 - 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
 
-- 💬 Ask me about **Flutter, Firebase, Nodejs, Django, API**
+- 💬 Ask me about **Flutter, Android, Firebase, Nodejs, Django, API**
 
 - 📫 How to reach me **tiwaresumit143@gmail.com**
 
