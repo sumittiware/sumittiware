@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sumit Tiware</h1>
+<h1 align="center">Hi, I'm Sumit Tiware</h1>
 <h3 align="center">Flutter & Android Developer | Programmer</h3>
 
 
 - 🌱 I’m currently learning **web3 technologies & and integrating it with Flutter apps**
 
-- 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
-
 - 💬 Ask me about **Flutter, Android, Firebase, Nodejs, Django, API**
+
+- 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
 
 - 📫 How to reach me **tiwaresumit143@gmail.com**
 
-<!-- - 📄 Know about my experiences [here](https://drive.google.com/file/d/10HfRbRTJIJkTs7juCGc_E4MHXLF6nbza/view?usp=sharing) -->
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1SIL1V4164kklWe9MsgIsYlGBgfkBHCHd/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
