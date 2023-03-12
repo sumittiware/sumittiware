@@ -23,7 +23,6 @@
 
 <h2 align="left">Languages & Frameworks :</h2>
 <p align="left">
-  <a href="https://www.android.com/" target="_blank">  <img src="https://skillicons.dev/icons?i=a" height="40" width="40" /> </a>
   <a href="https://www.dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" height="40" width="40"/> </a> 
   <a href="https://www.w3schools.com/cpp" target="_blank">  <img src="https://skillicons.dev/icons?i=cpp" height="40" width="40"/> </a> 
   <a href="https://www.kotlinlang.org" target="_blank">  <img src="https://skillicons.dev/icons?i=kotlin" height="40" width="40"/> </a> 
