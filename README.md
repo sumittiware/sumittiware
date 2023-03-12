@@ -60,9 +60,10 @@
 [![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumittiware&theme=react-dark)](https://github.com/literalEval)
 
 
+## My GitHub Stats
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumittiware&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumittiware&show_icons=true&theme=algolia" alt="sumittiware" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiware" alt="sumittiware" /></p>
+## Languages I Use Often (in my repos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiware&theme=github_dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/sumittiware)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sumittiware&label=Profile%20views&color=0e75b6&style=flat" alt="sumittiware" /></p>
