@@ -53,7 +53,8 @@
   <a href="https://git-scm.com" target="_blank">  <img src="https://skillicons.dev/icons?i=git" height="40" width="40"/> </a>
   <a href="https://github.com" target="_blank">  <img src="https://skillicons.dev/icons?i=github" height="40" width="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=selenium" height="40" width="40"/> </a> 
+   <a href="https://firebase.google.com" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a> 
+   <a href="https://mongodb.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="postman" width="40" height="40"/></a> 
 </p>
 
 
