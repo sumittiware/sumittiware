@@ -54,6 +54,8 @@
   
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiware&theme=github-dark"></p>
+
 <!-- ## <p align="center">My OpenSource Contribution Graph</p> -->
 [![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumittiware&theme=react-dark)](https://github.com/literalEval)
 
