@@ -21,8 +21,8 @@
 <a href="https://auth.geeksforgeeks.org/user/justanotaku/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="justanotaku/practice" height="40" width="40" /></a>
 </p>
 
-<h2 align="center">Languages & Frameworks :</h2>
-<p align="center">
+<h2 align="left">Languages & Frameworks :</h2>
+<p align="left">
   <a href="https://www.android.com/" target="_blank">  <img src="https://skillicons.dev/icons?i=a" height="40" width="40" /> </a>
   <a href="https://www.dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" height="40" width="40"/> </a> 
   <a href="https://www.w3schools.com/cpp" target="_blank">  <img src="https://skillicons.dev/icons?i=cpp" height="40" width="40"/> </a> 
@@ -42,8 +42,8 @@
   <a href="https://nextjs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40"/> </a> 
 </p>
   
-<h2 align="center">Tools :</h2>
-<p align="center">
+<h2 align="left">Tools :</h2>
+<p align="left">
   <a href="https://developer.android.com/studio" target="_blank">  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank">  <img src="https://skillicons.dev/icons?i=vscode" height="40" width="40"/> </a>
   <a href="https://git-scm.com" target="_blank">  <img src="https://skillicons.dev/icons?i=git" height="40" width="40"/> </a>
@@ -56,8 +56,8 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumittiware&show_icons=true&theme=algolia" alt="sumittiware" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumittiware&show_icons=true&theme=algolia" alt="sumittiware" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiware" alt="sumittiware" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiware" alt="sumittiware" /></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sumittiware&label=Profile%20views&color=0e75b6&style=flat" alt="sumittiware" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sumittiware&label=Profile%20views&color=0e75b6&style=flat" alt="sumittiware" /></p>
