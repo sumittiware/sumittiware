@@ -27,10 +27,11 @@
   <a href="https://www.w3schools.com/cpp" target="_blank">  <img src="https://skillicons.dev/icons?i=cpp" height="40" width="40"/> </a> 
   <a href="https://www.kotlinlang.org" target="_blank">  <img src="https://skillicons.dev/icons?i=kotlin" height="40" width="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" height="40" width="40"/>  </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40"/> </a> 
-  <a href="https://go.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=go" height="40" width="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" height="40" width="40"/>  </a> 
+  <a href="https://go.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=go" height="40" width="40"/> </a>  
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" height="40" width="40"/> </a>
   <a href="https://www.soliditylang.org" target="_blank"> <img src="https://skillicons.dev/icons?i=solidity" height="45" width="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40"/> </a>
   <a href="https://www.w3.org/html" target="_blank"> <img src="https://skillicons.dev/icons?i=html" height="45" width="40"/> </a> 
   <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://skillicons.dev/icons?i=css" height="40" width="40"/> </a> 
   <a href="https://flutter.com" target="_blank">  <img src="https://skillicons.dev/icons?i=flutter" height="40" width="40"/> </a>
@@ -48,10 +49,9 @@
   <a href="https://git-scm.com" target="_blank">  <img src="https://skillicons.dev/icons?i=git" height="40" width="40"/> </a>
   <a href="https://github.com" target="_blank">  <img src="https://skillicons.dev/icons?i=github" height="40" width="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-   <a href="https://firebase.google.com" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a> 
-   <a href="https://mongodb.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-   <a href="https://sqlite.org" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a>
-  
+  <a href="https://firebase.google.com" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a> 
+  <a href="https://mongodb.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://sqlite.org" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiware&theme=github-dark"></p>
