@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 🌱 I’m currently learning **web3 technologies & and integrating it with Flutter apps**
+- 🌱 I’m currently learning **Backend Development(GO)**
 
 - 💬 Ask me about **Flutter, Android, Firebase, Nodejs, Django, API**
 
