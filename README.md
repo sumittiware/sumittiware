@@ -54,10 +54,6 @@
   <a href="https://sqlite.org" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a>
 </p>
 
-## <p align="center">My OpenSource Contribution Graph</p>
-[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sumittiware&theme=react-dark)](https://github.com/literalEval)
-
-
 ## My GitHub Stats
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumittiware&show_icons=true&theme=github_dark&hide_border=true)
 
