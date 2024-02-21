@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Backend Development(GO)**
 
-- 💬 Ask me about **Flutter, Android, Firebase, Nodejs, Django, API**
+- 💬 Ask me about **Flutter, Android, Firebase, Java, Django, API, Nodejs**
 
 - 📝 I have written couple of articles on [GFG](https://auth.geeksforgeeks.org/user/sumitgtiware/articles)
 
 - 📫 How to reach me **tiwaresumit143@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1SIL1V4164kklWe9MsgIsYlGBgfkBHCHd/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1bzMT4IX6tXpUpT7JcEDoxfQ2UDPUlVM9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
