@@ -34,13 +34,15 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40"/> </a>
   <a href="https://www.w3.org/html" target="_blank"> <img src="https://skillicons.dev/icons?i=html" height="45" width="40"/> </a> 
   <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://skillicons.dev/icons?i=css" height="40" width="40"/> </a> 
+</p>
+
+<h2 align="left">Frameworks & Libraries:</h2>
   <a href="https://flutter.com" target="_blank">  <img src="https://skillicons.dev/icons?i=flutter" height="40" width="40"/> </a>
   <a href="https://www.djangoproject.com" target="_blank"> <img src="https://skillicons.dev/icons?i=django" height="40" width="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://skillicons.dev/icons?i=express" height="40" width="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="40"/> </a> 
   <a href="https://reactjs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=react" height="40" width="40"/> </a> 
   <a href="https://nextjs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40"/> </a> 
-</p>
   
 <h2 align="left">Tools :</h2>
 <p align="left">
