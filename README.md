@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 🌱 Former App Developer, transitioning to Backend**
+- 🌱 Former App Developer, transitioning to Backend
 
 - 💬 Ask me about **Flutter, Android, Firebase, Java, Django, API, Nodejs**
 
