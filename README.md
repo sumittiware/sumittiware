@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tiwaresumit143@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/175eAt-SC9vsPkUnbyKxUKm-UKKIfGfbz/view?usp=drive_link)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/175eAt-SC9vsPkUnbyKxUKm-UKKIfGfbz/view?usp=drive_link](https://drive.google.com/file/d/1U2643gJ7l0wr8cfkyW-CHpb7475eOAZ6/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
